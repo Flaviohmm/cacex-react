@@ -60,7 +60,7 @@ body, html, #root, .App {
 
 .login-box button {
   margin-top: 30px;
-  margin-left: 150px;
+  margin-left: 0px;
 }
 
 /* .login-box button {
